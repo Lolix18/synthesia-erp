@@ -9,7 +9,7 @@ st.set_page_config(page_title="SYNTHESIA ERP", layout="wide", page_icon="🕹️
 
 # --- 2. CONEXIÓN REAL A SUPABASE ---
 URL = "https://yalomimyjgaofjsxxtff.supabase.co"
-KEY = "sb_publishable_am9lY29ubm9yQGdtYWlsLmNvbToxNzMxOTkyNTQ3Nzg5"
+KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlhbG9taW15amdhb2Zqc3h4dGZmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgyMDk4NTksImV4cCI6MjA5Mzc4NTg1OX0.RaAiGp_dG_KZXhYe27-6mv-KjG0JUILC_coY7C0G9tM"
 
 @st.cache_resource
 def iniciar_conexion():
